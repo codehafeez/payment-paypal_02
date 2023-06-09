@@ -14,7 +14,10 @@ http://localhost/payment-paypal_02
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/payment-paypal_01/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/payment-paypal_02/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/payment-paypal_02/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/payment-paypal_02/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/payment-paypal_02/main/Screenshots/Output-04.png)
 
 
 ## 🔗 www.codehafeez.com
